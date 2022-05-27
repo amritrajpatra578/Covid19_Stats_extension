@@ -1,0 +1,14 @@
+{
+    "name": "covid",
+    "description": "covid tracker",
+    "version": "0.0.1",
+
+    "manifest_version":2,
+
+    "browser_action":{
+        "defult_tittle" : "covid tracker",
+        "default_popup": "popup.html",
+        "default_icon": "logo.png"
+    }
+
+}
